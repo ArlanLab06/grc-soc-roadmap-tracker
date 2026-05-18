@@ -69,14 +69,20 @@ grc-soc-roadmap-tracker/
 ### Dashboard
 
 The dashboard shows the main learning overview, including total progress, XP, level, current quest, portfolio progress, certifications, and badges.
+<img width="2628" height="1686" alt="dashboard" src="https://github.com/user-attachments/assets/82b33eaf-d67c-411f-9d9c-e84884ee6514" />
+
 
 ### Roadmap
 
 The roadmap contains structured cybersecurity learning tasks focused on GRC and SOC L1 preparation.
+<img width="2624" height="1688" alt="roadmap" src="https://github.com/user-attachments/assets/76fed868-7a5d-49f4-abb4-ff285d285cd7" />
+
 
 ### Portfolio
 
 The portfolio section includes practical project ideas such as risk registers, control matrices, NIST CSF mappings, SOC playbooks, phishing reports, and security dashboard mockups.
+<img width="2636" height="1686" alt="portfolio" src="https://github.com/user-attachments/assets/e78c3638-055b-4124-a715-e4bbd46d6e87" />
+
 
 ### Certifications
 
