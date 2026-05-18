@@ -109,15 +109,12 @@ The LinkedIn builder provides a cybersecurity-focused headline, about section, a
 The editor allows roadmap sections, tasks, and portfolio items to be customized.
 
 ## How to Run Locally
-=============
 npm install
 npm run dev
-=============
 
 ## Build
-=============
 npm run build
-=============
+
 ## Deployment
 
 This project is deployed with GitHub Pages using GitHub Actions.
@@ -141,6 +138,15 @@ Live site: https://arlanlab06.github.io/grc-soc-roadmap-tracker/
 I built this project to organize my cybersecurity learning path and turn my preparation into a visible portfolio project.
 
 The project helps me track what I am learning, what I have completed, what portfolio projects I can build, and what skills are relevant for entry-level GRC and SOC L1 roles.
+
+## What I Learned
+
+- Building a React/Vite project structure
+- Managing user progress with LocalStorage
+- Designing a dark dashboard-style UI
+- Organizing roadmap data separately from app logic
+- Deploying a frontend project with GitHub Pages
+- Using AI tools as part of a development workflow
 
 ## AI Usage
 
